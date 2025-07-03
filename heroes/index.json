@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Алхимик",
+    "image": "../images/heroes/alchemist.png"
+  },
+  {
+    "id": 2,
+    "name": "Алхимик",
+    "image": "../images/heroes/tiger_shooter.png"
+  }
+]
