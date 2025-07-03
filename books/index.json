@@ -1,0 +1,17 @@
+[
+  {
+    "id": "baseAtk",
+    "name": "Базовая АТК",
+    "image": "../images/books/base_atk.png"
+  },
+  {
+    "id": "dodge",
+    "name": "Уворот",
+    "image": "../images/books/dodge.png"
+  },
+    {
+    "id": "poison",
+    "name": "Яд",
+    "image": "../images/books/poison.png"
+  },
+]
