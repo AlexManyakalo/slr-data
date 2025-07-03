@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "id_branch": 2,
+  "name": "Ловкие пути",
+  "description": "Каждый раз, когда враг совершает уклонение, есть 7% шанс, что оно не удастся",
+  "rare": 1,
+  "lvls": 5,
+  "image": "../../images/skills/dodge/agility_shackles.png"
+}

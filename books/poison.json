@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "name": "",
+  "description": "",
+  "complexity": 0,
+  "stars-effect": "Увеличивает количество зарядов Яд на 15% каждый раз при нанесении Яд",
+  "core": {
+    "skills": [],
+    "explanation": "",
+  },
+  "counter": {
+    "books": [],
+    "skills": [],
+    "explanation": "",
+  },
+  "rec-heroes": [],
+  "image": "../images/books/poison.png"
+}

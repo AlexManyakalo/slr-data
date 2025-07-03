@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "id_branch": 1,
+  "name": "Увеличение атаки",
+  "description": "Увеличивает показатель атаки на 6",
+  "rare": 1,
+  "lvls": 5,
+  "image": "../../images/skills/baseAtk/atk_boost.png"
+}

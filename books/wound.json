@@ -1,0 +1,9 @@
+{
+  "id": 10,
+  "name": "Раны",
+  "description": "Ветка поддержки и повышения урона может быть основной веткой, когда ветки HP и Щитов запрещены",
+  "basic-skill": [],
+  "counteraction": [],
+  "rec-heroes": [],
+  "image": "../images/books/wound.png"
+}

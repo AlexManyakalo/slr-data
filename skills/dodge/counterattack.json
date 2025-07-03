@@ -1,0 +1,9 @@
+{
+  "id": 5,
+  "id_branch": 2,
+  "name": "Промах",
+  "description": "Когда враг совершает базовую атаку, существует 7% шанс, что его базовая атака не удастся",
+  "rare": 2,
+  "lvls": 3,
+  "image": "../../images/skills/dodge/counterattack.png"
+}

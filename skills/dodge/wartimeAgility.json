@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "id_branch": 2,
+  "name": "Военная ловкость",
+  "description": "В начале боя увеличивает показатель уклонения на 8 единиц на 5 секунд",
+  "rare": 2,
+  "lvls": 3,
+  "image": "../../images/skills/dodge/wartime_agility.png"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "id_branch": 2,
+  "name": "Увеличение уклонения",
+  "description": "Увеличивает показатель уклонения на 3 единицы",
+  "rare": 1,
+  "lvls": 5,
+  "image": "../../images/skills/dodge/dodge_boost.png"
+}

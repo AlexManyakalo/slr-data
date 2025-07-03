@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "id_branch": 1,
+  "name": "Безумие войны",
+  "description": "В начале боя увеличивает показатель атаки на 20 единиц на 5 секунд",
+  "rare": 2,
+  "lvls": 3,
+  "image": "../../images/skills/baseAtk/wartime_frenzy.png"
+}
