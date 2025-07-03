@@ -1,8 +1,7 @@
 {
-  "id": 1,
+  "id": "alchemist",
   "name": "Алхимик",
-  // "rec-books": ["heal", "wound"],
-  "rec-books": [5, 10],
+  "rec-books": ["heal", "wound"],
   "hp": 1200,
   "damage": 22,
   "attack-speed": 1.9,

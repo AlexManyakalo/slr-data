@@ -1,7 +1,7 @@
 {
-  "id": 2,
-  "name": "Алхимик",
-  "rec-books": [1, 6],
+  "id": "tigerShooter",
+  "name": "Лучница на тигре",
+  "rec-books": ["baseAtk"],
   "hp": 1000,
   "damage": 17,
   "attack-speed": 3,
