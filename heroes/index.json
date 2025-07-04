@@ -2,11 +2,11 @@
   {
     "id": "alchemist",
     "name": "Алхимик",
-    "image": "../images/heroes/alchemist.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/heroes/alchemist.png"
   },
   {
-    "id": 2,
-    "name": "Алхимик",
-    "image": "../images/heroes/tiger_shooter.png"
+    "id": "tigerShooter",
+    "name": "Лучница на тигре",
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/heroes/tiger_shooter.png"
   }
 ]
