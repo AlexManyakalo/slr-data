@@ -9,9 +9,59 @@
     "name": "Уворот",
     "image": "../images/books/dodge.png"
   },
-    {
+  {
+    "id": "crit",
+    "name": "Крит",
+    "image": "../images/books/crit.png"
+  },
+  {
+    "id": "hp",
+    "name": "ХП",
+    "image": "../images/books/hp.png"
+  },
+  {
+    "id": "heal",
+    "name": "Лечение",
+    "image": "../images/books/heal.png"
+  },
+  {
+    "id": "ultimate",
+    "name": "Ульта",
+    "image": "../images/books/ultimate.png"
+  },
+  {
     "id": "poison",
     "name": "Яд",
     "image": "../images/books/poison.png"
+  },
+  {
+    "id": "freeze",
+    "name": "Лед",
+    "image": "../images/books/freeze.png"
+  },
+  {
+    "id": "shield",
+    "name": "Щит",
+    "image": "../images/books/shield.png"
+  },
+  {
+    "id": "wound",
+    "name": "Раны",
+    "image": "../images/books/wound.png"
+  },
+  {
+    "id": "sprite",
+    "name": "Дух",
+    "image": "../images/books/sprite.png"
+  },
+  {
+    "id": "rage",
+    "name": "Ярость",
+    "image": "../images/books/rage.png"
+  },
+  {
+    "id": "haste",
+    "name": "Ускорение",
+    "image": "../images/books/haste.png"
   },
 ]
