@@ -16,5 +16,5 @@
     "name": "Химический шторм",
     "description": "Восстанавливает 50 здоровья каждые 0.8 секунд в течение 4 секунд. В этот период все наложенные Раны дополнительно увеличиваются на 5 уровней"
   },
-  "image": "../images/heroes/alchemist.png"
+  "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/heroes/alchemist.png"
 }

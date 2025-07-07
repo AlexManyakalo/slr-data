@@ -14,5 +14,5 @@
     "explanation": "Оковы ловкости и ядовитый урон могут противостоять",
   },
   "rec-heroes": [2],
-  "image": "../images/books/dodge.png"
+  "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/dodge.png"
 }

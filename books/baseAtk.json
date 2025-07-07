@@ -14,5 +14,5 @@
     "explanation": "Замораживает, замедляет Скорость атаки, а рост Уклонения затруднен. Учитывайте это, когда ветка Заморозка недоступна",
   },
   "rec-heroes": [2],
-  "image": "../images/books/base_atk.png"
+  "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/base_atk.png"
 }

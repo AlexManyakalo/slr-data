@@ -16,5 +16,5 @@
     "name": "Лунное перо грома",
     "description": "Призывает молнию, которая мгновенно поражает врага, нанося 200 магического урона. Кроме того, увеличивает собственную АТК на 3. Этот эффект может суммироваться"
   },
-  "image": "../images/heroes/tiger_shooter.png"
+  "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/heroes/tiger_shooter.png"
 }
