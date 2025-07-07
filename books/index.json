@@ -2,66 +2,66 @@
   {
     "id": "baseAtk",
     "name": "Базовая АТК",
-    "image": "../images/books/base_atk.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/base_atk.png"
   },
   {
     "id": "dodge",
     "name": "Уворот",
-    "image": "../images/books/dodge.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/dodge.png"
   },
   {
     "id": "crit",
     "name": "Крит",
-    "image": "../images/books/crit.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/crit.png"
   },
   {
     "id": "hp",
     "name": "ХП",
-    "image": "../images/books/hp.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/hp.png"
   },
   {
     "id": "heal",
     "name": "Лечение",
-    "image": "../images/books/heal.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/heal.png"
   },
   {
     "id": "ultimate",
     "name": "Ульта",
-    "image": "../images/books/ultimate.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/ultimate.png"
   },
   {
     "id": "poison",
     "name": "Яд",
-    "image": "../images/books/poison.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/poison.png"
   },
   {
     "id": "freeze",
     "name": "Лед",
-    "image": "../images/books/freeze.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/freeze.png"
   },
   {
     "id": "shield",
     "name": "Щит",
-    "image": "../images/books/shield.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/shield.png"
   },
   {
     "id": "wound",
     "name": "Раны",
-    "image": "../images/books/wound.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/wound.png"
   },
   {
     "id": "sprite",
     "name": "Дух",
-    "image": "../images/books/sprite.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/sprite.png"
   },
   {
     "id": "rage",
     "name": "Ярость",
-    "image": "../images/books/rage.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/rage.png"
   },
   {
     "id": "haste",
     "name": "Ускорение",
-    "image": "../images/books/haste.png"
+    "image": "https://raw.githubusercontent.com/AlexManyakalo/slr-data/gh-pages/images/books/haste.png"
   },
 ]
